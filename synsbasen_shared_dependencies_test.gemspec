@@ -36,6 +36,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "pry", "0.14.2"
   spec.add_dependency "rspec-rails", "7.0.1"
   spec.add_dependency "rspec-sidekiq", "5.0.0"
+  spec.add_dependency "shoulda-matchers", "5.3.0"
   spec.add_dependency "stripe-ruby-mock", "3.1.0"
   spec.add_dependency "webmock", "3.24.0"
 
