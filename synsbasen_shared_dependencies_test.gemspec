@@ -34,6 +34,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "dotenv-rails", "3.1.4"
   spec.add_dependency "factory_bot_rails", "6.4.4"
   spec.add_dependency "pry", "0.14.2"
+  spec.add_dependency "rails-controller-testing", "1.0.5"
   spec.add_dependency "rspec-rails", "7.0.1"
   spec.add_dependency "rspec-sidekiq", "5.0.0"
   spec.add_dependency "shoulda-matchers", "5.3.0"
